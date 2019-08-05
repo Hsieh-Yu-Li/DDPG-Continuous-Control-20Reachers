@@ -13,7 +13,7 @@ For this project, [Reacher](https://github.com/Unity-Technologies/ml-agents/blob
 #### Untrained Agent
 ![Untrained agent](Images/Untrained_agent_20reachers.gif)
 #### Trained Agent
-![Trained agent] (Images/Trained_agent_20reachers.gif)
+![Trained agent](Images/Trained_agent_20reachers.gif)
 
 
 In this environment, a double-jointed arm can move to target locations. A reward of +0.1 is provided for each step that the agent's hand is in the goal location. Thus, the goal of your agent is to maintain its position at the target location for as many time steps as possible.
