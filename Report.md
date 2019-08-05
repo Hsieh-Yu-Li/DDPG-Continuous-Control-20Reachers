@@ -39,7 +39,7 @@ Remark 2: mini-batch size should not be too large too.
 #### Untrained Agent
 ![Untrained agent](Images/Untrained_agent_20reachers.gif)
 #### Trained Agent
-![Trained agent] (Images/Trained_agent_20reachers.gif)
+![Trained agent](Images/Trained_agent_20reachers.gif)
 
 #### Rewards
 This is plot of rewards when training.
